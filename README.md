@@ -9,7 +9,7 @@ It is a modified version of [this script](https://www.cyberciti.biz/faq/linux-fi
 
 1. Clone the repository (or just download `pitemp.sh`)
 2. Make sure the file is executable - if it's not, run the following command:
-`chown +x pitemp.sh`
+`chmod +x pitemp.sh`
 3. Run the script:
 `./pitemp.sh`
 4. (optional) If you wish to use it like a Linux command, copy the file to the `/usr/bin/` directory:
