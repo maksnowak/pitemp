@@ -5,7 +5,7 @@ It is a modified version of [this script](https://www.cyberciti.biz/faq/linux-fi
 
 ![](example.png)
 
-###Installation
+### Installation
 
 1. Clone the repository (or just download `pitemp.sh`)
 2. Make sure the file is executable - if it's not, run the following command:
